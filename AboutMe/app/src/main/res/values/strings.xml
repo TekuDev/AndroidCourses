@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Teku Dev</string>
+    <string name="star_img_content">Star Image</string>
+
+    <string name="bio">Hi, my name is Teku.
+    \n\nI love music.
+    \n\nOf course, urban music. I like all of the styles and depends on the moment I choose
+    one kind of music or another.
+    \n\nI like electronic music too, but only if my mood is in party aligned.
+    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in risus eu mi molestie egestas a ac lorem.
+        \n\nProin eget diam quis augue interdum iaculis. Curabitur a augue eu augue accumsan consectetur.
+        \n\nDuis vel arcu orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        \n\nMorbi quis ex non nisl scelerisque molestie nec vitae nisi. Morbi.
+    \n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor sed erat sit amet pharetra.
+        \n\nIn non lacus tellus. Suspendisse sit amet ultrices neque. In congue ipsum diam. Ut eu commodo nisl, sed volutpat nisl.
+        \n\nSed tincidunt finibus tellus nec vestibulum. Phasellus ornare turpis ut vulputate blandit.
+        \n\nSed tristique id erat non bibendum. Etiam eget ante interdum, venenatis nisl eu.</string>
+</resources>
